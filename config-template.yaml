@@ -1,0 +1,5 @@
+work_dir: "<directory where piflix will store data>"
+ffmpeg_path: "<path to ffmpeg>"
+ffmpeg_pi: "<use ffmpeg optimised for rpi, boolean>"
+log_path: "<path where log file will be created and written to>"
+resolutions: "<comma separated resolution values without spaces, e.g. 480p,720p>"
